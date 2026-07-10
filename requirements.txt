@@ -24,4 +24,3 @@ pytz
 PyJWT
 urllib3
 pycryptodome
-google.protobuf
