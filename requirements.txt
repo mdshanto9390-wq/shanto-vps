@@ -20,3 +20,7 @@ protobuf_decoder
 google
 cfonts
 jwt
+pytz
+PyJWT
+urllib3
+pycryptodome
