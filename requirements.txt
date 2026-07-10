@@ -17,3 +17,4 @@ python-dotenv
 loguru
 jwt
 pytz
+Crypto
