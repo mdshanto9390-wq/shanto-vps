@@ -16,3 +16,4 @@ cryptography
 python-dotenv
 loguru
 jwt
+pytz
